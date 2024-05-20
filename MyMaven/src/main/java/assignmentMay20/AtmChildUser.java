@@ -8,6 +8,8 @@ public class AtmChildUser {
 		AtmParent obj=new AtmParent();
 		obj.setter(atmPin,deductAmount);
 		obj.getter();
+		
+		System.out.println("Print");
 	}
 
 }
