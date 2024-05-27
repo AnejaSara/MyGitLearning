@@ -28,7 +28,7 @@ public class EmployeeClass {
 		System.out.println(address.street);
 		System.out.println(address.District);
 		System.out.println(address.pin);
-		System.out.println("***************************");
+	    System.out.println("***************************");
 	}	
 	
 	

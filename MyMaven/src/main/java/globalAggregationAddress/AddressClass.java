@@ -15,6 +15,13 @@ public class AddressClass {
 		this.pin=pin;
 	}
 	
+	public void display() {
+		System.out.println("Address"+housename);
+		System.out.println(street);
+		System.out.println(District);
+		System.out.println(pin);
+	    System.out.println("***************************");
+	}
 	
 
 	public static void main(String[] args) {
